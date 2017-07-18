@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	border:3px solid blue;
+	margin: 1;
+	padding: 2;
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif,papyrus;
+	font-size: 13px;
+	color: #061C37;
+	background: #FACFCF;
+	background-image: url("b.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+#p1
+{
+	text-indent: 3cm;
+	text-decoration: overline;
+	font-style: italic;	
+}
+#p2
+{
+	text-align: right;
+	letter-spacing: 3px;
+	font: bold;
+	font-family: "papyrus";
+}
+#p3
+{
+	color: blue;
+	text-transform: uppercase;
+}
+
+a:link {color: red; text-decoration: underline; }
+a:active {color: yellow; text-decoration: underline; }
+a:visited {color: black; text-decoration: underline; }
+a:hover {color: white; text-decoration: none; }
+
+#a2
+{
+	color: aqua;
+}
+
+#a3
+{
+	color: green;
+}
+

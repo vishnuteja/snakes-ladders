@@ -1,0 +1,27 @@
+<html>
+
+<head>
+<style type="text/css">
+	body
+		{
+					
+		}
+		    a:link {color: WHITE;}
+			a:active {color: BLACK;}
+			a:hover {color: RED; text-decoration: none; }
+</style>
+</head>
+
+<body background="./images/bg6.jpg">
+<center>
+<font face="candara">
+<a href="firstpage.html" target="displaypane"> <img src="images/button1.jpg" width="65" height="32" border="0" alt=""> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="instructions.html" target="displaypane"> <img src="images/button2.jpg" width="115" height="26" border="0" alt="INSTRUCTIONS"> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="registration.html" target="displaypane"><img src="images/button3.jpg" width="115" height="26" border="0" alt="REGISTRATION"> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="create new.html" target="displaypane"><img src="images/button4.jpg" width="106" height="26" border="0" alt="CREATE NEW"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="join new.html" target="displaypane"><img src="images/button5.jpg" width="96" height="26" border="0" alt="JOIN NEW"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="contact us.html" target="displaypane"><img src="images/button6.jpg" width="101" height="26" border="0" alt="CONTACT US"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</center>
+</font>
+</body>
+</html>

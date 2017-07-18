@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> New Document </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+ </head>
+
+ <body background="./images/bg4.jpg">
+<center>
+  <font><form name = "create" action = "board.html" target = "_parent">
+  <center>
+		<table align = "center">
+				<tr>
+					<th> User Name </th>
+					<td> <input type="text" name="player" /> <a href= "registration.html"> New User? </a></td><br>
+				</tr>
+				<tr>
+					<th> Board Name </th>
+					<td> <input type="text" name="board" /></td><br>
+				</tr>
+				<tr>
+					<th> Password </th>
+					<td> <input type="password" name="pswd"  /> <a href= "password.html"> Forgot Password? </a></td><br>
+				</tr>
+				<tr>
+					<th> No of Players </th>
+					<td> <select name="No of Players">
+						 <option value="1"> 1 </option>
+						 <option value="2" selected="selected"> 2 </option>
+						 <option value="3"> 3 </option>
+						 <option value="4"> 4 </option>
+						 </select>
+					</td>
+				<tr>
+					<th> Pawn Color </th>
+					<td> <input type="radio" name="pawn" value="Red" /> <font color = "Red">Red <input type="radio" name="pawn" value="Green" /> <font color = "green">Green <input type="radio" name="pawn" value="Blue" /> <font color = "blue">Blue <input type="radio" name="pawn" value="Black" /> <font color = "black">Black
+					</td>
+				</tr>		
+
+				<tr>		
+					<td colspan = "2" align = "center"> <input type="submit" value="submit" onclick = "board.html" target = "displaypane"/> </td>
+				</tr>
+				</table>
+			</font>
+ </form>
+ </center></font>
+
+ </body>
+</html>

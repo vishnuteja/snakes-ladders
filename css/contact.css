@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif,papyrus;
+	font-size: 13px;
+	color: #061C37;
+	background: #000000;
+	background-image: url("../images/contact.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+#p1
+{
+	font-family: "papyrus";
+	font: bolder;
+	color:black;
+	text-transform: uppercase;
+}

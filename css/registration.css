@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	
+	padding: 2;
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif,papyrus;
+	font-size: 13px;
+	color: #061C37;
+	background: #FACFCF;
+	background-image: url("../images/bg2.jpg");
+	background-repeat: repeat;
+	background-position: center;
+	
+}
+
+#p1
+{
+	font-family: "candara";
+	font: bolder;
+	color:white;
+	text-transform: uppercase;
+}

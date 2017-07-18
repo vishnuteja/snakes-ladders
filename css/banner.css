@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	
+	padding: 2;
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif,papyrus;
+	font-size: 16px;
+	
+}
+
+#p1
+{
+	font-family: "candara";
+	font: bolder;
+	color:white;
+	text-transform: uppercase;
+}
+
+#p2
+{
+	font-family: "papyrus";
+	font: bolder;
+	font-size: 50px;
+	color:black;
+}
